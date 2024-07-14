@@ -1,5 +1,12 @@
 # docs-website
 
+## 2.3.1
+
+### Patch Changes
+
+- 1859c47: fix!: typo in config
+  - @sherifforg/constants@0.0.1
+
 ## 2.3.0
 
 ### Minor Changes

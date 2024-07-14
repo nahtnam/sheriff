@@ -1,5 +1,15 @@
 # eslint-config-sheriff
 
+## 19.0.0
+
+### Major Changes
+
+- 1859c47: fix!: typo in config
+
+### Minor Changes
+
+- 0fd4217: feat: allow zero-config sheriff
+
 ## 18.7.0
 
 ### Minor Changes
